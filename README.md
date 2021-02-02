@@ -1,6 +1,7 @@
 # dwm-workshop
 Current build of my suckless graphical environment.
 Includes dwm, st, dmenu and slstatus.
+![screenshot](https://github.com/rjflan/dwm-workshop/raw/main/screenshot.png)
 
 ## Requires:
 **Fonts:**
